@@ -1,9 +1,9 @@
 Adding layers:
 
+total_layers = {
 First_layer = blue
 second_layer = yellow
 third_layer = green
-Forth_layer = black
 Forth_layer = black
 }
 
