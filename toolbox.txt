@@ -6,7 +6,3 @@ second_layer = yellow
 third_layer = green
 Forth_layer = black
 }
-
-Adding change from undo commit section
-
-Add another change
